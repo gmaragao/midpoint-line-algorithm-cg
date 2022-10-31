@@ -1,4 +1,4 @@
-import lineMP from './midpoint';
+import lineMP from './midpoint.mjs';
 
 // #TODO --> Check code coverage
 
