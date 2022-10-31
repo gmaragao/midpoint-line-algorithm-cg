@@ -1,0 +1,18 @@
+{
+  "name": "computer-graphics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "midpoint-algorithm.test.js",
+  "scripts": {
+    "test": "jest --config=jest.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.19.4"
+  }
+}
