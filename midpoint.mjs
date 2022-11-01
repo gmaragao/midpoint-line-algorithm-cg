@@ -66,8 +66,6 @@ function testY(x0, y0, x1, y1) {
     };
     resultArray.push(resultObject);
 
-    console.log(resultObject, d);
-
     if (d > 0) {
       // Increment Y --> NE/SE
       yCurrent += yIncrementer;
